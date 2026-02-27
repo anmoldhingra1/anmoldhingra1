@@ -1,9 +1,7 @@
-### Anmol Dhingra
+I build AI systems that ship to production.
 
-Founder, [Rerato](https://www.rerato.com) — an AI App Factory.
+[Rerato](https://rerato.com) is an AI App Factory — we take AI-native applications from concept to launch. Our first product, [Trivana.ai](https://trivana.ai), brings personality-driven AI digital hosts to live experiences.
 
-Building [Trivana.ai](https://trivana.ai): personality-driven AI digital hosts for live experiences.
+A decade across the full AI stack — NLP, voice AI, graph ML, deep learning, and MLOps infrastructure at enterprise scale. I've built systems that process real-time conversation streams, model emotional context, and maintain consistent AI personas across sessions.
 
-Previously: ML platforms, voice AI, and graph ML at enterprise scale. 8+ years shipping NLP, deep learning, and MLOps infrastructure.
-
-[anmol.one](https://anmol.one) · [LinkedIn](https://www.linkedin.com/in/anmol-dhingra/) · [Rerato](https://www.rerato.com)
+Open-source work here spans voice persona design, LLM evaluation, conversational emotion analysis, and speaker diarization.
