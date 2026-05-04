@@ -16,4 +16,12 @@ What I work on:
 
 Public repos here are small technical slices from that work. Production Rerato and Trivana code stays private.
 
+Start here:
+
+- [voice-persona-engine](https://github.com/anmoldhingra1/voice-persona-engine): consistent AI persona shaping
+- [agent-flow](https://github.com/anmoldhingra1/agent-flow): multi-agent workflow orchestration
+- [realtime-ai-serve](https://github.com/anmoldhingra1/realtime-ai-serve): low-latency streaming inference primitives
+- [llm-eval-harness](https://github.com/anmoldhingra1/llm-eval-harness): LLM output evaluation and regression checks
+- [rerato-api-examples](https://github.com/anmoldhingra1/rerato-api-examples): safe public integration examples for the Rerato API
+
 Voice is not the moat. Orchestration is.
