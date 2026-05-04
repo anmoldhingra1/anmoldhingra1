@@ -2,7 +2,7 @@
 
 I build production AI systems that turn static content into interactive, voiced experiences.
 
-I'm the solo founder of [Rerato](https://trivana.ai), a voice-AI orchestration layer for generating AI-hosted experiences from documents, URLs, transcripts, or topics. [Trivana.ai](https://trivana.ai) is the first public alpha: AI-hosted gameshows with 3,811 experiences generated, 14 active creators in the last 30 days, and paying users since March 2026.
+I'm the solo founder of [Rerato](https://trivana.ai), a voice-AI orchestration layer for generating AI-hosted experiences from documents, URLs, transcripts, or topics. [Trivana.ai](https://trivana.ai) is the first public alpha: AI-hosted gameshows with 3,811 experiences generated.
 
 Before Rerato, I spent 9 years building AI in regulated environments across cybersecurity, financial services, NLP, voice, graph ML, and MLOps.
 
