@@ -1,7 +1,19 @@
-I build AI systems that ship to production.
+# Anmol Dhingra
 
-[Rerato](https://rerato.com) builds AI-native products from concept to production. Our first product, [Trivana.ai](https://trivana.ai), brings personality-driven AI digital hosts to live experiences.
+I build production AI systems that turn static content into interactive, voiced experiences.
 
-A decade across the full AI stack — NLP, voice AI, graph ML, deep learning, and MLOps at enterprise scale. I've built systems that process real-time conversation streams, model emotional context, and maintain consistent AI personas across sessions.
+I'm the solo founder of [Rerato](https://trivana.ai), a voice-AI orchestration layer for generating AI-hosted experiences from documents, URLs, transcripts, or topics. [Trivana.ai](https://trivana.ai) is the first public alpha: AI-hosted gameshows with 3,811 experiences generated, 14 active creators in the last 30 days, and paying users since March 2026.
 
-Open-source work here spans voice persona design, LLM evaluation, conversational emotion analysis, and speaker diarization.
+Before Rerato, I spent 9 years building AI in regulated environments across cybersecurity, financial services, NLP, voice, graph ML, and MLOps.
+
+What I work on:
+
+- Voice-AI orchestration and host scripting
+- LLM evaluation and grounded generation
+- Low-latency runtime and inference systems
+- Multi-agent workflow design
+- Emotion/personality-aware conversational AI
+
+Public repos here are small technical slices from that work. Production Rerato and Trivana code stays private.
+
+Voice is not the moat. Orchestration is.
