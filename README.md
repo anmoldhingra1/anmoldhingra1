@@ -1,8 +1,8 @@
 # Anmol Dhingra
 
-I build production AI systems that turn static content into interactive, voiced experiences.
+I build production AI systems that turn source content into live, interactive experiences with AI hosts.
 
-I'm the solo founder of [Rerato](https://rerato.ai), a voice-AI orchestration layer for generating AI-hosted experiences from documents, URLs, transcripts, or topics. [Trivana.ai](https://trivana.ai) is the first public alpha: AI-hosted gameshows with 3,811 experiences generated.
+I'm the solo founder of [Rerato](https://rerato.ai), an AI-host builder and runtime for live group experiences with permissioned visitor memory. [Trivana.ai](https://trivana.ai) is the first live product: 6,575 experiences have been created, including 268 through its ChatGPT app in the last 28 days.
 
 Before Rerato, I spent 9 years building AI in regulated environments across cybersecurity, financial services, NLP, voice, graph ML, and MLOps.
 
@@ -23,5 +23,7 @@ Start here:
 - [realtime-ai-serve](https://github.com/anmoldhingra1/realtime-ai-serve): low-latency streaming inference primitives
 - [llm-eval-harness](https://github.com/anmoldhingra1/llm-eval-harness): LLM output evaluation and regression checks
 - [rerato-api-examples](https://github.com/anmoldhingra1/rerato-api-examples): safe public integration examples for the Rerato API
+
+Writing: [Medium](https://medium.com/@anmoldhingra)
 
 Voice is not the moat. Orchestration is.
