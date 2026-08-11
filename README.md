@@ -10,7 +10,7 @@ Rerato is the platform I'm building around that idea. Trivana is the first live 
 
 Before this, I spent nine years building applied AI in regulated environments across cybersecurity, financial services, NLP, voice, graph ML, and MLOps. I still write code every day and like owning the whole loop—from model behavior to runtime to customer outcome.
 
-### The problems I like
+### Problems I like
 
 - Voice and personality that stay coherent
 - Memory with clear user permission
@@ -26,8 +26,10 @@ Before this, I spent nine years building applied AI in regulated environments ac
 - [llm-eval-harness](https://github.com/anmoldhingra1/llm-eval-harness) — catch output regressions before users do
 - [rerato-api-examples](https://github.com/anmoldhingra1/rerato-api-examples) — safe integration patterns for Rerato
 
-The production code behind Rerato and Trivana is private; these are focused technical pieces I can share.
+The product code behind Rerato and Trivana stays private; these repos are the technical pieces I can share.
 
-Writing: [Medium](https://medium.com/@anmoldhingra)
+If you're building AI that has to perform live—not just look good in a demo—I'd enjoy comparing notes.
+
+[Writing](https://medium.com/@anmoldhingra) · [LinkedIn](https://www.linkedin.com/in/anmol-dhingra/)
 
 *Voice is the interface. Orchestration is the product.*
