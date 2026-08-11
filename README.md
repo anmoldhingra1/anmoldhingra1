@@ -1,29 +1,33 @@
 # Anmol Dhingra
 
-I build production AI systems that turn source content into live, interactive experiences with AI hosts.
+### Building AI hosts that can run the room.
 
-I'm the solo founder of [Rerato](https://rerato.ai), an AI-host builder and runtime for live group experiences with permissioned visitor memory. [Trivana.ai](https://trivana.ai) is the first live product: 6,575 experiences have been created, including 268 through its ChatGPT app in the last 28 days.
+I'm the founder of [Rerato](https://rerato.ai) and maker of [Trivana](https://trivana.ai).
 
-Before Rerato, I spent 9 years building AI in regulated environments across cybersecurity, financial services, NLP, voice, graph ML, and MLOps.
+Most AI waits for a prompt. I'm interested in AI that can take responsibility for an experience: welcome the room, guide the flow, adapt in real time, remember with permission, and help a group reach an outcome.
 
-What I work on:
+Rerato is the platform I'm building around that idea. Trivana is the first live product—AI-hosted games and learning experiences made from source content.
 
-- Voice-AI orchestration and host scripting
-- LLM evaluation and grounded generation
-- Low-latency runtime and inference systems
-- Multi-agent workflow design
-- Emotion/personality-aware conversational AI
+Before this, I spent nine years building applied AI in regulated environments across cybersecurity, financial services, NLP, voice, graph ML, and MLOps. I still write code every day and like owning the whole loop—from model behavior to runtime to customer outcome.
 
-Public repos here are small technical slices from that work. Production Rerato and Trivana code stays private.
+### The problems I like
 
-Start here:
+- Voice and personality that stay coherent
+- Memory with clear user permission
+- Low-latency orchestration for live rooms
+- Grounded generation and ruthless evaluation
+- Systems that survive contact with real users
 
-- [voice-persona-engine](https://github.com/anmoldhingra1/voice-persona-engine): consistent AI persona shaping
-- [agent-flow](https://github.com/anmoldhingra1/agent-flow): multi-agent workflow orchestration
-- [realtime-ai-serve](https://github.com/anmoldhingra1/realtime-ai-serve): low-latency streaming inference primitives
-- [llm-eval-harness](https://github.com/anmoldhingra1/llm-eval-harness): LLM output evaluation and regression checks
-- [rerato-api-examples](https://github.com/anmoldhingra1/rerato-api-examples): safe public integration examples for the Rerato API
+### Selected builds
+
+- [voice-persona-engine](https://github.com/anmoldhingra1/voice-persona-engine) — shape consistent AI personas
+- [agent-flow](https://github.com/anmoldhingra1/agent-flow) — orchestrate multi-agent workflows
+- [realtime-ai-serve](https://github.com/anmoldhingra1/realtime-ai-serve) — streaming inference primitives
+- [llm-eval-harness](https://github.com/anmoldhingra1/llm-eval-harness) — catch output regressions before users do
+- [rerato-api-examples](https://github.com/anmoldhingra1/rerato-api-examples) — safe integration patterns for Rerato
+
+The production code behind Rerato and Trivana is private; these are focused technical pieces I can share.
 
 Writing: [Medium](https://medium.com/@anmoldhingra)
 
-Voice is not the moat. Orchestration is.
+*Voice is the interface. Orchestration is the product.*
