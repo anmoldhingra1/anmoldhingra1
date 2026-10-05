@@ -24,7 +24,6 @@ Before this, I spent nine years building applied AI in regulated environments, m
 - [agent-flow](https://github.com/anmoldhingra1/agent-flow): orchestrate multi-agent workflows
 - [realtime-ai-serve](https://github.com/anmoldhingra1/realtime-ai-serve): streaming inference primitives
 - [llm-eval-harness](https://github.com/anmoldhingra1/llm-eval-harness): catch output regressions before users do
-- [rerato-api-examples](https://github.com/anmoldhingra1/rerato-api-examples): safe integration patterns for Rerato
 
 The product code behind Rerato and Trivana stays private; these repos are the technical pieces I can share.
 
