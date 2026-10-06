@@ -1,22 +1,20 @@
 # Anmol Dhingra
 
-### Building AI hosts that can run the room.
+### Founder & CEO of [Rerato](https://www.rerato.com): the trust layer between AI agents and the world.
 
-I'm the founder of [Rerato](https://rerato.ai) and maker of [Trivana](https://trivana.ai), the #1 trivia and quiz app on ChatGPT.
+As agents take on real work, every action they take on a real account needs a license, a limit and a proof. That's what I'm building at Rerato. Our first product is [computeruse](https://computeruse.si): give your AI agent a license, not your password.
 
-Most AI waits for a prompt. I'm interested in AI that can take responsibility for an experience: welcome the room, guide the flow, adapt in real time, remember with permission, and help a group reach an outcome.
+Before Rerato, I built [Trivana](https://trivana.ai), the #1 trivia and quiz app on ChatGPT, with AI hosts that run the room live.
 
-Rerato is the platform I'm building around that idea. Trivana is the first live product: AI-hosted games and learning experiences made from source content.
-
-Before this, I spent nine years building applied AI in regulated environments, most recently AI for cybersecurity at State Street and Mastercard, plus financial services, NLP, voice, graph ML, and MLOps. I still write code every day and like owning the whole loop, from model behavior to runtime to customer outcome.
+Before that, nine years of applied AI in regulated environments, most recently AI for cybersecurity at State Street and Mastercard, plus financial services, NLP, voice, graph ML and MLOps. I still write code every day and like owning the whole loop, from model behavior to runtime to customer outcome.
 
 ### Problems I like
 
-- Voice and personality that stay coherent
-- Memory with clear user permission
-- Low-latency orchestration for live rooms
+- Agents that act on real accounts without ever holding the password
+- Limits enforced in code, not in prompts
+- Proof of what an agent actually did, checked against the source
+- Low-latency orchestration and voice that stays coherent
 - Grounded generation and ruthless evaluation
-- Systems that survive contact with real users
 
 ### Selected builds
 
@@ -25,12 +23,8 @@ Before this, I spent nine years building applied AI in regulated environments, m
 - [realtime-ai-serve](https://github.com/anmoldhingra1/realtime-ai-serve): streaming inference primitives
 - [llm-eval-harness](https://github.com/anmoldhingra1/llm-eval-harness): catch output regressions before users do
 
-The product code behind Rerato and Trivana stays private; these repos are the technical pieces I can share.
+Product code for Rerato lives in [@rerato-inc](https://github.com/rerato-inc) and stays private for now. The license format will be published as an open spec.
 
-Also building [computeruse](https://computeruse.si), a license for AI agents, at [@rerato-inc](https://github.com/rerato-inc).
+If you're building agents that need to touch real accounts, I'd like to talk: hello@rerato.si
 
-If you're building AI that has to perform live, not just look good in a demo, I'd enjoy comparing notes.
-
-[Writing](https://medium.com/@anmoldhingra) · [LinkedIn](https://www.linkedin.com/in/anmol-dhingra/)
-
-*Voice is the interface. Orchestration is the product.*
+[Writing](https://medium.com/@anmoldhingra) · [LinkedIn](https://www.linkedin.com/in/anmol-dhingra/) · [X](https://x.com/anmol_rerato)
