@@ -17,9 +17,9 @@ Before Rerato, nine years of applied AI in regulated environments: cybersecurity
 ### Selected builds
 
 - [voice-persona-engine](https://github.com/anmoldhingra1/voice-persona-engine): shape consistent AI personas
-- [realtime-ai-serve](https://github.com/anmoldhingra1/realtime-ai-serve): streaming inference primitives
 - [agent-flow](https://github.com/anmoldhingra1/agent-flow): orchestrate multi-agent workflows
 - [llm-eval-harness](https://github.com/anmoldhingra1/llm-eval-harness): catch output regressions before users do
+- [realtime-ai-serve](https://github.com/anmoldhingra1/realtime-ai-serve): streaming inference primitives
 
 Product code for Rerato and Trivana is private.
 
